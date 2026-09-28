@@ -160,7 +160,7 @@ the one periwinkle card.</p></div>
 {callout('success', 'check', 'Done', 'Green for what is finished.')}
 {callout('warning', 'triangle-alert', 'Heads up', 'Amber for what needs a look, coral for real trouble.')}
 <div class="el-blockquote"><blockquote dir="auto"><p>Write it plainly, then set it beautifully.</p></blockquote></div>
-{table(['Face', 'Role'], ['Charis SIL 400', 'Title, headings and pull quotes'], ['Mono 400', 'Body text and labels'], ['Mono 700', 'Bold'])}
+{table(['Face', 'Role'], ['Colophon Serif 400', 'Title, headings and pull quotes'], ['Mono 400', 'Body text and labels'], ['Mono 700', 'Bold'])}
 """
 
 NOTE_RU = f"""

@@ -11,9 +11,9 @@ for what you act on.
 
 ## Principles
 
-- **Serif over mono.** Every heading, the title and pull quotes in Charis SIL at weight 400,
-  never bold; the text and the interface in the platform's monospace, like a manual set for
-  a literary magazine.
+- **Serif over mono.** Every heading, the title and pull quotes in Colophon Serif at weight
+  400, never bold; the text and the interface in the platform's monospace, like a manual set
+  for a literary magazine.
 - **Warm parchment, never white.** An off-black ink and a warm grey scale; separation comes
   from ash hairlines and one coloured card, not shadows.
 - **Colour kept for meaning.** Lake blue is only the main button and the caret; a periwinkle
@@ -46,9 +46,11 @@ release](https://github.com/borozdov-obsidian-themes/colophon/releases/latest) i
 
 ## Font
 
-Charis SIL (© 1997–2022 SIL International) is embedded in `theme.css` as base64 WOFF2 under
-the SIL Open Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and
-Cyrillic, for the title, headings and pull quotes; the text uses your system's monospace.
+Colophon Serif is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Charis SIL
+(© 1997–2022 SIL International), renamed because a modified copy may not use the original's
+Reserved Font Names. One weight, for the title, headings and pull quotes; the text uses your
+system's monospace.
 
 ## License
 
@@ -58,7 +60,7 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Гранка» — техническое
 руководство, набранное для литературного журнала на тёплом пергаменте, и тёмный «Печатный
-цех» — те же страницы под лампами типографии. Заголовки антиквой (Charis SIL) поверх
+цех» — те же страницы под лампами типографии. Заголовки антиквой (Colophon Serif) поверх
 моноширинного текста, кнопки-пилюли, одна барвинковая карточка и один озёрно-синий для того,
 что вы делаете. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
 Borozdov Colophon → Установить и применить.

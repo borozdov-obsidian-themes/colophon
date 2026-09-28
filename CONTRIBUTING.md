@@ -27,8 +27,9 @@ House rules:
   literal.
 - Warm parchment, serif headlines and monospace text; lake blue only for the main button
   and the caret, a periwinkle card for the plain note and the open file. The only embedded
-  font is Charis SIL (the title, headings and pull quotes); the text uses the platform's
-  monospace: `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  font is Colophon Serif, a renamed subset of Charis SIL (the title, headings and pull
+  quotes); the text uses the platform's monospace: `fonts/*.woff2` are written into
+  `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

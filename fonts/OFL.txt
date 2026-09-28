@@ -1,3 +1,6 @@
+Colophon Serif is a modified version of Charis SIL: a Latin and Cyrillic subset, renamed
+because the original carries Reserved Font Names.
+
 Charis SIL, Copyright (c) 1997-2022 SIL International (http://www.sil.org/), with Reserved Font Names "Charis" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
